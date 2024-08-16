@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Muyou.
+- 👀 I’m interested in AI engineering and computer science in general.
+- 🌱 I’m currently learning AI and DS with Python.
